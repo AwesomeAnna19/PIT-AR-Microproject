@@ -271,10 +271,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TrackImage
   objectPrefabs:
-  - name: Spiral
-    prefab: {fileID: 0}
-  - name: Spiral
-    prefab: {fileID: 0}
+  - name: spiral
+    prefab: {fileID: 6774379574452493336, guid: ba3fc5485d9eea945ad5ca61a61eee77,
+      type: 3}
 --- !u!1 &436358032
 GameObject:
   m_ObjectHideFlags: 0
