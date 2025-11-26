@@ -8,6 +8,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 100112, guid: 0b40793d471baab40aea2b7bb1831c8c, type: 3}
+      propertyPath: m_TagString
+      value: HEAD
+      objectReference: {fileID: 0}
     - target: {fileID: 100154, guid: 0b40793d471baab40aea2b7bb1831c8c, type: 3}
       propertyPath: m_Name
       value: pumpkin_king 1

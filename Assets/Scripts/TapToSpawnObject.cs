@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.InputSystem.EnhancedTouch;
 using Touch = UnityEngine.InputSystem.EnhancedTouch.Touch;
 
-public class tapToShowObject : MonoBehaviour
+public class TapToSpawnObject : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     // Enables Enhanced Touch Support.
